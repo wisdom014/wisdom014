@@ -36,6 +36,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wisdom014&" alt="wisdom014" /></p>
 
 <h3 align="left">✍️Random Dev Quote:</h3>
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<p><img align="left" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="wisdom014" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wisdom014&label=Profile%20views&color=0e75b6&style=flat" alt="wisdom014" /> </p>
