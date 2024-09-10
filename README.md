@@ -1,9 +1,10 @@
-[![MasterHead](https://i.pinimg.com/originals/2c/85/cc/2c85ccf9ea65e0fa1441a3ecaaae0c8a.gif)](https://portfolio-sable-five-15.vercel.app/)
+<img alt="coding" align="right" width="100%" src="https://i.pinimg.com/originals/2c/85/cc/2c85ccf9ea65e0fa1441a3ecaaae0c8a.gif">
 <h1 align="center">Hi 👋, I'm Elijah Akinniyi</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img alt="coding" align="right" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wisdom014&label=Profile%20views&color=0e75b6&style=flat" alt="wisdom014" /> </p>
 
 - 🔭 I’m currently working on **Meme Generator**
 
@@ -37,6 +38,3 @@
 
 <h3 align="left">✍️Random Dev Quote:</h3>
 <p><img align="left" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="wisdom014" /></p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wisdom014&label=Profile%20views&color=0e75b6&style=flat" alt="wisdom014" /> </p>
