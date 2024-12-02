@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/elijah-akinniyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elijah-akinniyi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/elijah-akinniyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="elijah-akinniyi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/elijahakinniyi01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elijah" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~01186d265a94f348b0?mp_source=share" target="blank"><img align="center" src="https://www.clipartmax.com/png/small/150-1500825_dharmeshkumar-maisuria-upwork-profile-upwork-icon.png" alt="elijah" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~01186d265a94f348b0?mp_source=share" target="blank"><img align="center" src="https://www.clipartmax.com/png/small/150-1500825_dharmeshkumar-maisuria-upwork-profile-upwork-icon.svg" alt="elijah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
