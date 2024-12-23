@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **elijahakinniyi014@gmail.com**
+- 📫 How to reach me **[Email](elijahakinniyi014@gmail.com)**
 
 - 📄 Know about my experiences [About Me](https://portfolio-sable-five-15.vercel.app/about.html)
 
