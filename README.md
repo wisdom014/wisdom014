@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **React, Scrimba**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-sable-five-15.vercel.app/](https://portfolio-sable-five-15.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-sable-five-15.vercel.app/)
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **elijahakinniyi014@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-sable-five-15.vercel.app/about.html](https://portfolio-sable-five-15.vercel.app/about.html)
+- 📄 Know about my experiences [About Me](https://portfolio-sable-five-15.vercel.app/about.html)
 
 - ⚡ Fun fact **I love Anime and Manga**
 
