@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wisdom014&label=Profile%20views&color=0e75b6&style=flat" alt="wisdom014" /> </p>
 
-- 🔭 I’m currently working on **Meme Generator**
+- 🔭 I just completed a **Rick and Morty Website**
 
 - 🌱 I’m currently learning **React, Scrimba**
 
