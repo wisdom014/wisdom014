@@ -5,7 +5,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wisdom014&label=Profile%20views&color=0e75b6&style=flat" alt="wisdom014" /> </p>
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=plastic&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D37143)](https://codetime.dev)
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=wisdom014&label=Profile%20views&color=0e75b6&style=flat](https://shields.jannchie.com/endpoint?style=plastic&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D37143)" alt="wisdom014" /> </p>
 
 - 🔭 I just completed a **Rick and Morty Website**
 
