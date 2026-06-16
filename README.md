@@ -4,8 +4,7 @@
 <img alt="coding" align="right" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wisdom014&label=Profile%20views&color=0e75b6&style=flat" alt="wisdom014" /> </p>
-<p align="left"> <img src="https://shields.jannchie.com/endpoint?style=plastic&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D37143" alt="wisdom014" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wisdom014&label=Profile%20views&color=0e75b6&style=flat" alt="wisdom014" /> <img src="https://shields.jannchie.com/endpoint?style=plastic&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D37143" alt="wisdom014" /> </p>
 
 - 🔭 I just completed a **Rick and Morty Website**
 
