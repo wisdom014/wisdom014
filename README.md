@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-sable-five-15.vercel.app/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **frontend development**
 
 - 📫 How to reach me **Elijahakinniyi014@gmail.com**
 
