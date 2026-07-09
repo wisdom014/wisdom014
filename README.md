@@ -8,7 +8,7 @@
 
 - 🔭 I just completed a **Rick and Morty Website**
 
-- 🌱 I’m currently learning **React, Scrimba**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-sable-five-15.vercel.app/)
 
